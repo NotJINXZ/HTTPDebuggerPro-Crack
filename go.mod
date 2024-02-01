@@ -1,6 +1,6 @@
 module http.debugger.crack
 
-go 1.21.6
+go 1.23
 
 require (
 	github.com/fatih/color v1.16.0
